@@ -51,7 +51,7 @@ REPO_NAME=`basename $(cd $(dirname $0) && pwd)`
 # 実行
 
 ```dosbatch
-python Main.py
+python meta_up.sh
 ```
 
 # 結果
