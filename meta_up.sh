@@ -107,5 +107,7 @@ else
 	sleep 5s
 	. meta_languages.sh
 	echo `RegistLanguages`
+	# 集計を表示する
+	. meta_aggregate.sh
 fi
 
